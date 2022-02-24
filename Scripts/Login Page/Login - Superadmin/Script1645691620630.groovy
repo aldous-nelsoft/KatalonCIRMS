@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('http://localhost:8080/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_Version 3.6.0.1_username'), 'superadmin')
@@ -30,4 +32,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Versio
 WebUI.sendKeys(findTestObject('Object Repository/Page_Login/input_Version 3.6.0.1_password'), Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_MJ  SHOE STORE - MJ  SHOE STORE_auth'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Version 3.6.0.1_username'), 'superadmin')
 

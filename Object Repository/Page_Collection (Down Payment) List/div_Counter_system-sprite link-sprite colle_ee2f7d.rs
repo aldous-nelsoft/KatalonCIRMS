@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Counter_system-sprite link-sprite colle_ee2f7d</name>
+   <tag></tag>
+   <elementGuidId>beb23142-de51-43d1-a96a-127f79064a2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.system-sprite.link-sprite.collectiondownpayment</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>system-sprite link-sprite collectiondownpayment</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;page&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;main-sidebar&quot;]/div[@class=&quot;v-accordion text-unselectable&quot;]/div[@class=&quot;v-accordion-content bordered-top&quot;]/ul[@class=&quot;tree&quot;]/div[@class=&quot;accordion-link selectedLink&quot;]/a[1]/div[@class=&quot;system-sprite link-sprite collectiondownpayment&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[4]/div/div[2]/div/div[3]/div[2]/ul/div[6]/a/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/ul/div[6]/a/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

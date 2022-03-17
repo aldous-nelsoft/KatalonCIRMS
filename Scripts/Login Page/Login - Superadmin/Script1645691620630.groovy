@@ -33,5 +33,3 @@ WebUI.sendKeys(findTestObject('Object Repository/Page_Login/input_Version 3.6.0.
 
 WebUI.click(findTestObject('Object Repository/Page_Login/input_MJ  SHOE STORE - MJ  SHOE STORE_auth'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Version 3.6.0.1_username'), 'superadmin')
-

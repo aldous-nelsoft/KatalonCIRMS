@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Product</name>
    <tag></tag>
-   <elementGuidId>4484de6f-853a-43eb-ad61-58068b457ea2</elementGuidId>
+   <elementGuidId>ce394d4b-27a0-4966-aa9d-a3fd6c0597f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.link-label</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[4]/div/div[2]/div/div[8]/div[2]/ul/div[2]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div[4]/div/div[2]/div/div/div[2]/ul/div/a/div[3]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,76 +28,62 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>link-label</value>
+      <value>toggle-bar</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Product</value>
+      <value> Product</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;page&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;main-sidebar&quot;]/div[@class=&quot;v-accordion text-unselectable&quot;]/div[@class=&quot;v-accordion-content bordered-top&quot;]/ul[@class=&quot;tree&quot;]/div[@class=&quot;accordion-link&quot;]/a[1]/div[@class=&quot;link-label&quot;]</value>
+      <value>id(&quot;app&quot;)/div[@class=&quot;page&quot;]/div[@class=&quot;sidebar-wrapper&quot;]/div[@class=&quot;sidebar&quot;]/div[@class=&quot;main-sidebar&quot;]/div[@class=&quot;v-accordion text-unselectable&quot;]/div[@class=&quot;v-accordion-content bordered-top&quot;]/ul[@class=&quot;tree&quot;]/div[@class=&quot;accordion-group c-pdl-8&quot;]/div[@class=&quot;toggle-bar&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div[4]/div/div[2]/div/div/div[2]/ul/div/a/div[3]</value>
+      <value>//div[@id='app']/div[4]/div/div[2]/div/div[8]/div[2]/ul/div[2]/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data'])[1]/following::div[6]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Product Sales Quantity and Profit Report'])[1]/following::div[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Menu'])[1]/following::div[11]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Sales Reference'])[1]/following::div[8]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/preceding::div[4]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch'])[1]/preceding::div[9]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Product']/parent::*</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Serial Report'])[1]/preceding::div[5]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a/div[3]</value>
+      <value>//div[8]/div[2]/ul/div[2]/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Product' or . = 'Product')]</value>
+      <value>//div[(text() = ' Product' or . = ' Product')]</value>
    </webElementXpaths>
 </WebElementEntity>
